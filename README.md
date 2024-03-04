@@ -1,3 +1,3 @@
 # Defi sdf
-fhftrtnrmdb5
+fhft
 In-depth documentation on Defi is available at [fuel](https://fuel.network/)
